@@ -18,6 +18,7 @@ type ProductPostType = {
 	image: string;
 	price: number;
 	quantity: number;
+	name:string;
 };
 
 const initialValues = {
