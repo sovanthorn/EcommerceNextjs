@@ -4,8 +4,8 @@
   "/(admin)/dashboard/page": "app/(admin)/dashboard/page.js",
   "/(admin)/setting/page": "app/(admin)/setting/page.js",
   "/(admin)/product/page": "app/(admin)/product/page.js",
+  "/(user)/products/page": "app/(user)/products/page.js",
   "/(user)/page": "app/(user)/page.js",
   "/(user)/products/[id]/page": "app/(user)/products/[id]/page.js",
-  "/(user)/products/page": "app/(user)/products/page.js",
   "/(user)/about/page": "app/(user)/about/page.js"
 }
